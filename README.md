@@ -91,7 +91,17 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **1inch** | DEX aggregator for best swap rates | [Website](https://1inch.io) |
 | **Odos** | DEX aggregator with multi-path routing | [Website](https://odos.xyz) |
 
----
+## 💵 Stablecoins
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **USDC** | Native USDC issued by Circle on Base | [Website](https://circle.com) |
+| **USDbC** | Bridged USDC from Ethereum to Base | [Website](https://bridge.base.org) |
+| **DAI** | Decentralized stablecoin by MakerDAO | [Website](https://makerdao.com) |
+| **USDT** | Tether stablecoin on Base | [Website](https://tether.to) |
+| **crvUSD** | Curve Finance native stablecoin | [Website](https://crvusd.curve.fi) |
+| **DOLA** | Inverse Finance stablecoin on Base | [Website](https://inverse.finance) |
+| **USDz** | Anzen Finance yield-bearing stablecoin | [Website](https://anzen.finance) |
 
 ## 🎮 Gaming & Social
 
