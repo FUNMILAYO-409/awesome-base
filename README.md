@@ -48,8 +48,11 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Overnight Finance** | Delta-neutral yield strategies | [Website](https://overnight.fi) |
 | **Beefy Finance** | Multi-chain yield optimizer | [Website](https://beefy.finance) |
 | **Compound Finance** | Decentralized lending protocol | [Website](https://compound.finance) |
-
----
+| **Morpho Blue** | Peer-to-peer lending optimizer on Base | [Website](https://morpho.org) |
+| **Contango** | Decentralized perpetuals on Base | [Website](https://contango.xyz) |
+| **Sonne Finance** | Native lending and borrowing on Base | [Website](https://sonne.finance) |
+| **Reserve Protocol** | Create backed stablecoins on Base | [Website](https://reserve.org) |
+| **Spark Protocol** | DAI-powered lending by MakerDAO | [Website](https://spark.fi) |
 
 ## 🖼️ NFTs & Collectibles
 
