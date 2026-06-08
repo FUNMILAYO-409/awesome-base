@@ -66,7 +66,18 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Sound.xyz** | Music NFT platform | [Website](https://sound.xyz) |
 | **Manifold** | NFT creation tools for creators | [Website](https://manifold.xyz) |
 
----
+## 🤖 AI x Crypto
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Virtuals Protocol** | Launch and trade AI agents on Base | [Website](https://virtuals.io) |
+| **Coinbase AgentKit** | Build AI agents that interact onchain | [Website](https://docs.cdp.coinbase.com/agentkit) |
+| **Spectral** | Onchain AI agent execution platform | [Website](https://spectral.finance) |
+| **Bitte Protocol** | AI-powered Web3 wallet assistant | [Website](https://bitte.ai) |
+| **Fetch.ai** | Autonomous AI agent network on Base | [Website](https://fetch.ai) |
+| **Autonolas** | Open platform for autonomous AI agents | [Website](https://olas.network) |
+| **Morpheus** | Decentralized AI inference on Base | [Website](https://mor.org) |
+| **MyShell** | AI agent creation and monetization | [Website](https://myshell.ai) |
 
 ## 🌉 Bridges
 
