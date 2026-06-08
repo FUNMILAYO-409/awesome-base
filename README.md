@@ -151,7 +151,18 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Boardroom** | Governance aggregator for DAOs | [Website](https://boardroom.io) |
 | **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io) |
 | **Nouns DAO** | Iconic NFT-governed DAO on Base | [Website](https://nouns.wtf) |
+## 🏠 Real World Assets (RWA)
 
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Centrifuge** | Tokenizing real world assets on Base | [Website](https://centrifuge.io) |
+| **Goldfinch** | Decentralized credit protocol for RWAs | [Website](https://goldfinch.finance) |
+| **Maple Finance** | Institutional crypto lending with RWAs | [Website](https://maplelabs.io) |
+| **Ondo Finance** | Tokenized US treasuries on Base | [Website](https://ondo.finance) |
+| **Backed Finance** | Tokenized stocks and bonds on Base | [Website](https://backed.fi) |
+| **TrueFi** | Uncollateralized lending for institutions | [Website](https://truefi.io) |
+| **RealT** | Tokenized real estate on blockchain | [Website](https://realt.co) |
+| **Fortunafi** | RWA yield products on Base | [Website](https://fortunafi.com) |
 ## 🛠️ Developer Tools
 
 | Project | Description | Links |
