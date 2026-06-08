@@ -139,6 +139,19 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Frax Ether** | Liquid ETH staking by Frax Finance | [Website](https://frax.finance) |
 | **Ankr** | Liquid staking and RPC node provider | [Website](https://ankr.com) |
 | **StakeWise** | Non-custodial ETH staking on Base | [Website](https://stakewise.io) |
+
+## 🏛️ DAO & Governance
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Tally** | On-chain governance platform for DAOs | [Website](https://tally.xyz) |
+| **Snapshot** | Gasless off-chain voting for DAOs | [Website](https://snapshot.org) |
+| **Aragon** | DAO creation and management platform | [Website](https://aragon.org) |
+| **Colony** | Decentralized organization management | [Website](https://colony.io) |
+| **Boardroom** | Governance aggregator for DAOs | [Website](https://boardroom.io) |
+| **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io) |
+| **Nouns DAO** | Iconic NFT-governed DAO on Base | [Website](https://nouns.wtf) |
+
 ## 🛠️ Developer Tools
 
 | Project | Description | Links |
