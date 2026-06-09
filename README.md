@@ -58,8 +58,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **OpenSea** | Largest NFT marketplace, supports Base | [Website](https://opensea.io) |
 | **Mintfun** | Free NFT minting platform on Base | [Website](https://mint.fun) |
 | **Base Paint** | Collaborative pixel art NFTs on Base | [Website](https://basepaint.xyz) |
-| **Rodeo** | Curated NFT marketplace on Base | [Website](https://rodeo.club) |
-| **Sound.xyz** | Music NFT platform | [Website](https://sound.xyz) |
+| **Rodeo** | Curated NFT marketplace on Base | [Website](https://rodeo.club) 
 | **Manifold** | NFT creation tools for creators | [Website](https://manifold.xyz) |
 
 ## 🤖 AI x Crypto
