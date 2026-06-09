@@ -56,8 +56,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 ## 🖼️ NFTs & Collectibles
 
 | Project | Description | Links |
-|---------|-------------|-------|
-| **Zora** | NFT creation and minting protocol | [Website](https://zora.co) |
 | **OpenSea** | Largest NFT marketplace, supports Base | [Website](https://opensea.io) |
 | **Mintfun** | Free NFT minting platform on Base | [Website](https://mint.fun) |
 | **Base Paint** | Collaborative pixel art NFTs on Base | [Website](https://basepaint.xyz) |
