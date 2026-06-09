@@ -135,7 +135,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Stakedao** | Yield strategies and veToken management | [Website](https://stakedao.org) |
 | **Vesper Finance** | Flexible yield strategies on Base | [Website](https://vesper.finance) |
 | **Idle Finance** | Best yield routing across protocols | [Website](https://idle.finance) |
-| **AutoFarm** | Cross-chain yield aggregator on Base | [Website](https://autofarm.network) |
 
 ## 🥩 Staking
 
