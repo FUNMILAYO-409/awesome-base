@@ -110,8 +110,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **USDbC** | Bridged USDC from Ethereum to Base | [Website](https://bridge.base.org) |
 | **DAI** | Decentralized stablecoin by MakerDAO | [Website](https://makerdao.com) |
 | **USDT** | Tether stablecoin on Base | [Website](https://tether.to) |
-| **crvUSD** | Curve Finance native stablecoin | [Website](https://crvusd.curve.fi) |
-| **DOLA** | Inverse Finance stablecoin on Base | [Website](https://inverse.finance) |
+| **crvUSD** | Curve Finance native stablecoin | [Website](https://crvusd.curve.fi) 
 | **USDz** | Anzen Finance yield-bearing stablecoin | [Website](https://anzen.finance) |
 
 ## 🎮 Gaming & Social
