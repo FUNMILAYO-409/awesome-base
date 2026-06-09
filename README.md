@@ -28,7 +28,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 - [🎮 Gaming & Social](#-gaming--social)
 - [🛠️ Developer Tools](#-developer-tools)
 - [📊 Analytics & Data](#-analytics--data)
-- [💼 Wallets](#-wallets)
 - [🔐 Security](#-security)
 - [🎓 Learning Resources](#-learning-resources)
 - [📰 News & Community](#-news--community)
