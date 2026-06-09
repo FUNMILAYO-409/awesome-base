@@ -215,7 +215,15 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Safe (Gnosis)** | Multi-sig wallet for teams | [Website](https://safe.global) |
 | **Frame** | Desktop-native Ethereum wallet | [Website](https://frame.sh) |
 
----
+## 🖼️ Farcaster Frames
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Framekit** | Build interactive Farcaster Frames | [Website](https://framekit.dev) |
+| **Neynar** | Farcaster API and Frames infrastructure | [Website](https://neynar.com) |
+| **Pinata** | Farcaster Frames hosting and IPFS | [Website](https://pinata.cloud) |
+| **Airstack** | Farcaster Frames data and APIs | [Website](https://airstack.xyz) |
+| **Supercast** | Advanced Farcaster client with Frames | [Website](https://supercast.xyz) |
 
 ## 🔐 Security
 
