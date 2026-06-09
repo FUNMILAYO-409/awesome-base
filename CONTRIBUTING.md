@@ -34,4 +34,4 @@ Found a broken link? Open an issue with:
 
 ---
 
-Thanks for contributing to the Base ecosystem! 🔵
+Thanks for contributing to the Base ecosystem! 
