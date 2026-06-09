@@ -154,8 +154,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Aragon** | DAO creation and management platform | [Website](https://aragon.org) |
 | **Colony** | Decentralized organization management | [Website](https://colony.io) |
 | **Boardroom** | Governance aggregator for DAOs | [Website](https://boardroom.io) |
-| **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io) |
-| **Nouns DAO** | Iconic NFT-governed DAO on Base | [Website](https://nouns.wtf) |
+| **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io)
 ## 🏠 Real World Assets (RWA)
 
 | Project | Description | Links |
