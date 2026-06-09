@@ -160,7 +160,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Centrifuge** | Tokenizing real world assets on Base | [Website](https://centrifuge.io) |
-| **Goldfinch** | Decentralized credit protocol for RWAs | [Website](https://goldfinch.finance) |
 | **Maple Finance** | Institutional crypto lending with RWAs | [Website](https://maplelabs.io) |
 | **Ondo Finance** | Tokenized US treasuries on Base | [Website](https://ondo.finance) |
 | **Backed Finance** | Tokenized stocks and bonds on Base | [Website](https://backed.fi) |
