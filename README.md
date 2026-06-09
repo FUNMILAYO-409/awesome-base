@@ -6,7 +6,6 @@
 [![Base](https://img.shields.io/badge/Built%20on-Base-0052FF)](https://base.org)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
----
 
 ## 📌 What is Base?
 
