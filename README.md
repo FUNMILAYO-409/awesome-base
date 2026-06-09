@@ -67,7 +67,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 |---------|-------------|-------|
 | **Virtuals Protocol** | Launch and trade AI agents on Base | [Website](https://virtuals.io) |
 | **Coinbase AgentKit** | Build AI agents that interact onchain | [Website](https://docs.cdp.coinbase.com/agentkit) |
-| **Spectral** | Onchain AI agent execution platform | [Website](https://spectral.finance) |
 | **Bitte Protocol** | AI-powered Web3 wallet assistant | [Website](https://bitte.ai) |
 | **Fetch.ai** | Autonomous AI agent network on Base | [Website](https://fetch.ai) |
 | **Autonolas** | Open platform for autonomous AI agents | [Website](https://olas.network) |
