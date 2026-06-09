@@ -42,7 +42,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Aerodrome Finance** | Leading DEX and liquidity hub on Base | [Website](https://aerodrome.finance) |
 | **Moonwell** | Open lending and borrowing protocol on Base | [Website](https://moonwell.fi) |
 | **Extra Finance** | Leveraged yield farming protocol | [Website](https://extra.finance) |
-| **Seamless Protocol** | Native lending/borrowing on Base | [Website](https://seamlessprotocol.com) |
 | **Harvest Finance** | Yield aggregator supporting Base | [Website](https://harvest.finance) |
 | **Overnight Finance** | Delta-neutral yield strategies | [Website](https://overnight.fi) |
 | **Beefy Finance** | Multi-chain yield optimizer | [Website](https://beefy.finance) |
