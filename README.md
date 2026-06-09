@@ -196,7 +196,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **DefiLlama** | DeFi TVL and protocol tracker | [Website](https://defillama.com) |
 | **Token Terminal** | Financial metrics for crypto protocols | [Website](https://tokenterminal.com) |
 | **L2Beat** | L2 ecosystem analytics | [Website](https://l2beat.com) |
-| **Growthepie** | Base and L2 analytics | [Website](https://growthepie.xyz) |
 
 ---
 
