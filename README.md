@@ -102,7 +102,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **BaseSwap** | Native DEX built on Base | [Website](https://baseswap.fi) |
 | **SushiSwap** | Multi-chain DEX with Base support | [Website](https://sushi.com) |
 | **Curve Finance** | Stablecoin-focused DEX | [Website](https://curve.fi) |
-| **Balancer** | Automated portfolio manager and DEX | [Website](https://balancer.fi) |
 | **1inch** | DEX aggregator for best swap rates | [Website](https://1inch.io) |
 | **Odos** | DEX aggregator with multi-path routing | [Website](https://odos.xyz) |
 
