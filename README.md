@@ -248,7 +248,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 |----------|-------------|-------|
 | **Base Blog** | Official Base updates | [Blog](https://base.mirror.xyz) |
 | **The Defiant** | DeFi and crypto news | [Website](https://thedefiant.io) |
-| **Bankless** | Crypto media and community | [Website](https://bankless.com) |
 | **Week in Ethereum** | Weekly Ethereum ecosystem recap | [Website](https://weekinethereumnews.com) |
 | **Base Discord** | Official Base community | [Discord](https://discord.gg/buildonbase) |
 
