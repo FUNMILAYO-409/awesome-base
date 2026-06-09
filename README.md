@@ -91,7 +91,13 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Orbiter Finance** | Low-cost L2 to L2 bridge | [Website](https://orbiter.finance) |
 | **Relay Bridge** | Fast bridging to Base | [Website](https://relay.link) |
 
----
+## 💳 Payments & Payroll
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Request Finance** | Crypto invoicing and payroll | [Website](https://request.finance) |
+| **Superfluid** | Real-time money streaming | [Website](https://superfluid.finance) |
+| **Sablier** | Token vesting and streaming | [Website](https://sablier.com) |
 
 ## 💱 DEXs & Swaps
 
