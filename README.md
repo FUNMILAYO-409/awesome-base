@@ -181,7 +181,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **The Graph** | Indexing protocol for blockchain data | [Website](https://thegraph.com) |
 | **OpenZeppelin** | Smart contract security library | [Website](https://openzeppelin.com) |
 | **Remix IDE** | Browser-based Solidity IDE | [Website](https://remix.ethereum.org) |
-| **Tenderly** | Smart contract monitoring and debugging | [Website](https://tenderly.co) |
 | **Basescan** | Block explorer for Base | [Website](https://basescan.org) |
 
 ---
