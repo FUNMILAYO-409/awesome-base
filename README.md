@@ -72,7 +72,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Fetch.ai** | Autonomous AI agent network on Base | [Website](https://fetch.ai) |
 | **Autonolas** | Open platform for autonomous AI agents | [Website](https://olas.network) |
 | **Morpheus** | Decentralized AI inference on Base | [Website](https://mor.org) |
-| **MyShell** | AI agent creation and monetization | [Website](https://myshell.ai) |
 
 ## 🌉 Bridges
 
