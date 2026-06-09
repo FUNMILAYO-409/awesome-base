@@ -278,7 +278,6 @@ Contributions are welcome! If you know a great Base project that's not listed he
 3. Make sure it includes: Name, Description, and working link
 4. Submit a Pull Request
 
-Please make sure the project is **actually live on Base** before submitting.
 
 ---
 
