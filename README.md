@@ -70,7 +70,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Autonolas** | Open platform for autonomous AI agents | [Website](https://olas.network) |
 | **Morpheus** | Decentralized AI inference on Base | [Website](https://mor.org) |
 
-## 🌉 Bridges
+🌉 Bridges
 
 | Project | Description | Links |
 |---------|-------------|-------|
