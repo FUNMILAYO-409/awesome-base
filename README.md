@@ -50,7 +50,6 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Contango** | Decentralized perpetuals on Base | [Website](https://contango.xyz) |
 | **Sonne Finance** | Native lending and borrowing on Base | [Website](https://sonne.finance) |
 | **Reserve Protocol** | Create backed stablecoins on Base | [Website](https://reserve.org) |
-| **Spark Protocol** | DAI-powered lending by MakerDAO | [Website](https://spark.fi) |
 
 ## 🖼️ NFTs & Collectibles
 
