@@ -51,7 +51,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Uniswap V4** | Latest Uniswap version with custom hooks on Base | [Website](https://uniswap.org) |
 | **Ether.fi** | Decentralized ETH staking and restaking | [Website](https://ether.fi) |
 
-## 🖼️ NFTs & Collectibles
+🖼️ NFTs & Collectibles
 
 | Project | Description | Links |
 | **OpenSea** | Largest NFT marketplace, supports Base | [Website](https://opensea.io) |
