@@ -59,6 +59,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Base Paint** | Collaborative pixel art NFTs on Base | [Website](https://basepaint.xyz) |
 | **Rodeo** | Curated NFT marketplace on Base | [Website](https://rodeo.club) 
 | **Manifold** | NFT creation tools for creators | [Website](https://manifold.xyz) |
+| **Highlight.xyz** | No-code NFT minting platform on Base | [Website](https://highlight.xyz) |
 
 ## 🤖 AI x Crypto
 
