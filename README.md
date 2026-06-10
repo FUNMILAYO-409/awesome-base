@@ -170,6 +170,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **TrueFi** | Uncollateralized lending for institutions | [Website](https://truefi.io) |
 | **RealT** | Tokenized real estate on blockchain | [Website](https://realt.co) |
 | **Fortunafi** | RWA yield products on Base | [Website](https://fortunafi.com) |
+| **Matrixdock** | Tokenized treasury bonds on Base | [Website](https://matrixdock.com) |
+
 ## 🛠️ Developer Tools
 
 | **Wagmi** | React hooks library for Base development | [Website](https://wagmi.sh) |
