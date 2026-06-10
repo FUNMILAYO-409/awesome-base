@@ -83,6 +83,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Synapse Protocol** | Cross-chain bridge and messaging | [Website](https://synapseprotocol.com) |
 | **Orbiter Finance** | Low-cost L2 to L2 bridge | [Website](https://orbiter.finance) |
 | **Relay Bridge** | Fast bridging to Base | [Website](https://relay.link) |
+| **Socket Protocol** | Cross-chain liquidity and messaging bridge | [Website](https://socket.tech) |
 
 ## 💳 Payments & Payroll
 
