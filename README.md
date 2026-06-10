@@ -226,7 +226,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Revoke.cash** | Revoke token approvals | [Website](https://revoke.cash) |
 | **Pocket Universe** | Transaction simulation | [Website](https://pocketuniverse.app) |
 | **Web3 Antivirus** | Browser extension for scam detection | [Website](https://web3antivirus.io) |
-
+| **Forta Network** | Real-time threat detection for Base | [Website](https://forta.network) |
 ---
 
 ## 🎓 Learning Resources
