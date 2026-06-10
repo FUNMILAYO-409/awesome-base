@@ -7,7 +7,7 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 
-## 📌 What is Base?
+ What is Base?
 
 Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It's designed to bring the next billion users onchain. Base is built on the OP Stack and is part of the Superchain ecosystem.
 
