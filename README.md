@@ -210,6 +210,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Safe (Gnosis)** | Multi-sig wallet for teams | [Website](https://safe.global) |
 | **Frame** | Desktop-native Ethereum wallet | [Website](https://frame.sh) |
 
+| **Zerion** | Smart crypto wallet with Base support | [Website](https://zerion.io) |
+
 ## 🖼️ Farcaster Frames
 
 | Project | Description | Links |
