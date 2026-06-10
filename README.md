@@ -171,6 +171,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Fortunafi** | RWA yield products on Base | [Website](https://fortunafi.com) |
 ## 🛠️ Developer Tools
 
+| **Wagmi** | React hooks library for Base development | [Website](https://wagmi.sh) |
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Hardhat** | Ethereum development environment | [Website](https://hardhat.org) |
