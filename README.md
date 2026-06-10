@@ -49,6 +49,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Sonne Finance** | Native lending and borrowing on Base | [Website](https://sonne.finance) |
 | **Reserve Protocol** | Create backed stablecoins on Base | [Website](https://reserve.org) |
 | **Uniswap V4** | Latest Uniswap version with custom hooks on Base | [Website](https://uniswap.org) |
+| **Ether.fi** | Decentralized ETH staking and restaking | [Website](https://ether.fi) |
 
 ## 🖼️ NFTs & Collectibles
 
