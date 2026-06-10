@@ -125,6 +125,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Warpcast** | Leading Farcaster client | [Website](https://warpcast.com) |
 | **Onchain Summer** | Base's seasonal onchain campaign | [Website](https://onchainsummer.xyz) |
 | **Words3** | Onchain Scrabble-like word game | [Website](https://words3.xyz) |
+| **Paragraph** | Web3 newsletter and blogging on Base | [Website](https://paragraph.xyz) |
 
 ## 🌾 Yield Aggregators
 
