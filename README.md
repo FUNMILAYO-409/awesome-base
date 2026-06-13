@@ -70,7 +70,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Bitte Protocol** | AI-powered Web3 wallet assistant | [Website](https://bitte.ai) |
 | **Fetch.ai** | Autonomous AI agent network on Base | [Website](https://fetch.ai) |
 | **Autonolas** | Open platform for autonomous AI agents | [Website](https://olas.network) |
-| **Morpheus** | Decentralized AI inference on Base | [Website](https://mor.org) |
+| **Morpheus**| **Venice AI** | Decentralized private AI inference on Base  [Website](https://mor.org)
+  | Decentralized AI inference on Base | |[Website](https://venice.ai) |
 
 🌉 Bridges
 
