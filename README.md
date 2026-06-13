@@ -163,6 +163,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Colony** | Decentralized organization management | [Website](https://colony.io) |
 | **Boardroom** | Governance aggregator for DAOs | [Website](https://boardroom.io) |
 | **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io)
+| **Karma** | Onchain DAO reputation and governance tracking | [Website](https://showkarma.xyz) |
+
 ## 🏠 Real World Assets (RWA)
 
 | Project | Description | Links |
