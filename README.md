@@ -131,6 +131,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Onchain Summer** | Base's seasonal onchain campaign | [Website](https://onchainsummer.xyz) |
 | **Words3** | Onchain Scrabble-like word game | [Website](https://words3.xyz) |
 | **Paragraph** | Web3 newsletter and blogging on Base | [Website](https://paragraph.xyz) |
+| **Stack** | Onchain points and rewards protocol on Base | [Website](https://stack.so) |
+
 
 ## 🌾 Yield Aggregators
 
