@@ -223,8 +223,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Rabby Wallet** | Security-focused multi-chain wallet | [Website](https://rabby.io) |
 | **Safe (Gnosis)** | Multi-sig wallet for teams | [Website](https://safe.global) |
 | **Frame** | Desktop-native Ethereum wallet | [Website](https://frame.sh) |
-
 | **Zerion** | Smart crypto wallet with Base support | [Website](https://zerion.io) |
+| **Privy** | Embedded wallet infrastructure for Base apps | [Website](https://privy.io) |
 
 ## 🖼️ Farcaster Frames
 
