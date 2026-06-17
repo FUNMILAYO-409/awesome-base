@@ -51,6 +51,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Uniswap V4** | Latest Uniswap version with custom hooks on Base | [Website](https://uniswap.org) |
 | **Ether.fi** | Decentralized ETH staking and restaking | [Website](https://ether.fi) |
 | **Fluid Protocol** | Liquidity layer for lending and DEX on Base | [Website](https://fluid.instadapp.io) |
+| **Asymmetry Finance** | Diversified ETH liquid staking on Base | [Website](https://asymmetry.finance) |
 
 🖼️ NFTs & Collectibles
 
