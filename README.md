@@ -63,6 +63,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Manifold** | NFT creation tools for creators | [Website](https://manifold.xyz) |
 | **Highlight.xyz** | No-code NFT minting platform on Base | [Website](https://highlight.xyz) |
 | **Decent.xyz** | Cross-chain NFT minting and payments on Base | [Website](https://decent.xyz) |
+| **Transient Labs** | Advanced NFT smart contract tools on Base | [Website](https://transientlabs.xyz) |
 
 ## 🤖 AI x Crypto
 
