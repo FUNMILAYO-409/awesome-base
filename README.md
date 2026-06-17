@@ -197,7 +197,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Remix IDE** | Browser-based Solidity IDE | [Website](https://remix.ethereum.org) |
 | **Basescan** | Block explorer for Base | [Website](https://basescan.org) |
 | **Viem** | TypeScript library for Base blockchain interactions | [Website](https://viem.sh) |
----
+| **Tenderly** | Smart contract monitoring and debugging on Base | [Website](https://tenderly.co) |
 
 ## 📊 Analytics & Data
 
