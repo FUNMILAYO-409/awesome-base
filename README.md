@@ -280,7 +280,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **IPFS** | Decentralized file storage | [Website](https://ipfs.tech) |
 | **Filecoin** | Decentralized storage network | [Website](https://filecoin.io) |
 | **Gelato Network** | Smart contract automation on Base | [Website](https://gelato.network) |
----
+| **Pimlico** | Account abstraction infrastructure for Base | [Website](https://pimlico.io) |
 
 ## 🤝 Contributing
 
