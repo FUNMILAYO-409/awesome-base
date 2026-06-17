@@ -158,6 +158,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Stader Labs** | Multi-chain liquid staking protocol | [Website](https://staderlabs.com) |
 | **Frax Ether** | Liquid ETH staking by Frax Finance | [Website](https://frax.finance) |
 | **Ankr** | Liquid staking and RPC node provider | [Website](https://ankr.com) |
+| **Renzo Protocol** | Liquid restaking protocol on Base | [Website](https://renzoprotocol.com) |
 
 ## 🏛️ DAO & Governance
 
