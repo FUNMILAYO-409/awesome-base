@@ -96,6 +96,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Request Finance** | Crypto invoicing and payroll | [Website](https://request.finance) |
 | **Superfluid** | Real-time money streaming | [Website](https://superfluid.finance) |
 | **Sablier** | Token vesting and streaming | [Website](https://sablier.com) |
+| **Splits** | Onchain revenue splitting on Base | [Website](https://splits.org) |
 
 ## 💱 DEXs & Swaps
 
