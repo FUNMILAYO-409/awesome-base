@@ -93,6 +93,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Relay Bridge** | Fast bridging to Base | [Website](https://relay.link) |
 | **Socket Protocol** | Cross-chain liquidity and messaging bridge | [Website](https://socket.tech) |
 | **deBridge** | Cross-chain interoperability protocol on Base | [Website](https://debridge.finance) |
+| **Connext** | Secure cross-chain token bridge on Base | [Website](https://connext.network) |
 
 ## 💳 Payments & Payroll
 
