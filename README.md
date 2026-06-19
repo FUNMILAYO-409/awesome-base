@@ -190,6 +190,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **RealT** | Tokenized real estate on blockchain | [Website](https://realt.co) |
 | **Fortunafi** | RWA yield products on Base | [Website](https://fortunafi.com) |
 | **Matrixdock** | Tokenized treasury bonds on Base | [Website](https://matrixdock.com) |
+| **Propy** | Tokenized real estate transactions on Base | [Website](https://propy.com) |
+
 
 ## 🛠️ Developer Tools
 
