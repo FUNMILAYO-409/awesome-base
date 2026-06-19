@@ -243,6 +243,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Zerion** | Smart crypto wallet with Base support | [Website](https://zerion.io) |
 | **Privy** | Embedded wallet infrastructure for Base apps | [Website](https://privy.io) |
 | **Dynamic** | Seamless web3 wallet login for Base apps | [Website](https://dynamic.xyz) |
+| **Clave** | Smart wallet with easy payments on Base | [Website](https://getclave.io) |
 
 ## 🖼️ Farcaster Frames
 
