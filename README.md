@@ -53,6 +53,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Fluid Protocol** | Liquidity layer for lending and DEX on Base | [Website](https://fluid.instadapp.io) |
 | **Asymmetry Finance** | Diversified ETH liquid staking on Base | [Website](https://asymmetry.finance) |
 | **Pear Protocol** | Pairs trading and perpetuals on Base | [Website](https://pearprotocol.io) |
+| **Instadapp** | DeFi management and automation on Base | [Website](https://instadapp.io) |
 
 🖼️ NFTs & Collectibles
 
