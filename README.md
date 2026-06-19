@@ -96,6 +96,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Socket Protocol** | Cross-chain liquidity and messaging bridge | [Website](https://socket.tech) |
 | **deBridge** | Cross-chain interoperability protocol on Base | [Website](https://debridge.finance) |
 | **Connext** | Secure cross-chain token bridge on Base | [Website](https://connext.network) |
+| **Meson Finance** | Stablecoin cross-chain bridge on Base | [Website](https://meson.fi) |
 
 ## 💳 Payments & Payroll
 
