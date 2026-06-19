@@ -105,6 +105,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Superfluid** | Real-time money streaming | [Website](https://superfluid.finance) |
 | **Sablier** | Token vesting and streaming | [Website](https://sablier.com) |
 | **Splits** | Onchain revenue splitting on Base | [Website](https://splits.org) |
+| **Clave** | Smart wallet with easy payments on Base | [Website](https://getclave.io) |
 
 ## 💱 DEXs & Swaps
 
@@ -245,7 +246,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Zerion** | Smart crypto wallet with Base support | [Website](https://zerion.io) |
 | **Privy** | Embedded wallet infrastructure for Base apps | [Website](https://privy.io) |
 | **Dynamic** | Seamless web3 wallet login for Base apps | [Website](https://dynamic.xyz) |
-| **Clave** | Smart wallet with easy payments on Base | [Website](https://getclave.io) |
+
 
 ## 🖼️ Farcaster Frames
 
