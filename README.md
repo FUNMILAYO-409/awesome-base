@@ -212,6 +212,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Viem** | TypeScript library for Base blockchain interactions | [Website](https://viem.sh) |
 | **Tenderly** | Smart contract monitoring and debugging on Base | [Website](https://tenderly.co) |
 | **Hardhat Ignition** | Declarative smart contract deployment on Base | [Website](https://hardhat.org/ignition) |
+| **Cookbook.dev** | Smart contract search and deployment on Base | [Website](https://cookbook.dev) |
+
 
 ## 📊 Analytics & Data
 
