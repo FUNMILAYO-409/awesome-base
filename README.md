@@ -221,6 +221,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Blockscout** | Open-source block explorer for Base | [Website](https://blockscout.com) |
 | **Parsec Finance** | Real-time DeFi portfolio analytics on Base | [Website](https://parsec.finance) |
 | **Cielo Finance** | Onchain wallet activity tracker on Base | [Website](https://cielo.finance) |
+| **Flipside Crypto** | Onchain data analytics and dashboards for Base | [Website](https://flipsidecrypto.xyz) |
+
 
 ## 💼 Wallets
 
