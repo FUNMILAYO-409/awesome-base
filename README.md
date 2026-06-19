@@ -294,6 +294,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Gelato Network** | Smart contract automation on Base | [Website](https://gelato.network) |
 | **Pimlico** | Account abstraction infrastructure for Base | [Website](https://pimlico.io) |
 | **Alchemy Account Kit** | Smart account toolkit for Base apps | [Website](https://accountkit.alchemy.com) |
+| **Biconomy** | Gasless transactions and account abstraction on Base | [Website](https://biconomy.io) |
 
 ## 🤝 Contributing
 
