@@ -141,6 +141,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Paragraph** | Web3 newsletter and blogging on Base | [Website](https://paragraph.xyz) |
 | **Stack** | Onchain points and rewards protocol on Base | [Website](https://stack.so) |
 | **Zapper** | Onchain social activity and portfolio tracker | [Website](https://zapper.xyz) |
+| **Jam** | Onchain music and social platform on Base | [Website](https://jam.so) |
+
 
 ## 🌾 Yield Aggregators
 
