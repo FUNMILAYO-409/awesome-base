@@ -258,6 +258,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Web3 Antivirus** | Browser extension for scam detection | [Website](https://web3antivirus.io) |
 | **Forta Network** | Real-time threat detection for Base | [Website](https://forta.network) |
 | **Harpie** | Onchain fraud protection and wallet security | [Website](https://harpie.io) |
+| **Ironblocks** | Onchain security and threat prevention for Base | [Website](https://ironblocks.com) |
 
 ## 🎓 Learning Resources
 
