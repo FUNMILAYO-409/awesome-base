@@ -68,6 +68,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Decent.xyz** | Cross-chain NFT minting and payments on Base | [Website](https://decent.xyz) |
 | **Transient Labs** | Advanced NFT smart contract tools on Base | [Website](https://transientlabs.xyz) |
 | **Seaport** | Open source NFT trading protocol on Base | [Website](https://opensea.io/seaport) |
+| **Slice** | Onchain store and payment splits for NFTs on Base | [Website](https://slice.so) |
 
 ## 🤖 AI x Crypto
 
