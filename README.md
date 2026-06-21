@@ -160,6 +160,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Idle Finance** | Best yield routing across protocols | [Website](https://idle.finance) |
 | **Sturdy Finance** | Isolated lending pools and yield on Base | [Website](https://sturdy.finance) |
 | **Gearbox Protocol** | Composable leverage and yield on Base | [Website](https://gearbox.fi) |
+| **Enzyme Finance** | Onchain asset management and yield on Base | [Website](https://enzyme.finance) |
+
 
 ## 🥩 Staking
 
