@@ -188,6 +188,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **JokeDAO** | Community-run contest and governance | [Website](https://jokedao.io)
 | **Karma** | Onchain DAO reputation and governance tracking | [Website](https://showkarma.xyz) |
 | **Hats Protocol** | Onchain roles and permissions for DAOs on Base | [Website](https://hatsprotocol.xyz) |
+| **Otterspace** | Non-transferable badges and DAO reputation on Base | [Website](https://otterspace.xyz) |
 
 ## 🏠 Real World Assets (RWA)
 
