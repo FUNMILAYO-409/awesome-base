@@ -55,6 +55,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Pear Protocol** | Pairs trading and perpetuals on Base | [Website](https://pearprotocol.io) |
 | **Instadapp** | DeFi management and automation on Base | [Website](https://instadapp.io) |
 | **Balmy** | Dollar cost averaging and auto-invest on Base | [Website](https://balmy.xyz) |
+| **Rings Protocol** | Liquid staking and DeFi yields on Base | [Website](https://rings.money) |
 
 🖼️ NFTs & Collectibles
 
