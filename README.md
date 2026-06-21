@@ -146,7 +146,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Stack** | Onchain points and rewards protocol on Base | [Website](https://stack.so) |
 | **Zapper** | Onchain social activity and portfolio tracker | [Website](https://zapper.xyz) |
 | **Jam** | Onchain music and social platform on Base | [Website](https://jam.so) |
-
+| **Unlonely** | Onchain live streaming and social on Base | [Website](https://unlonely.app) |
 
 ## 🌾 Yield Aggregators
 
