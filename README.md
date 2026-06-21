@@ -200,7 +200,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Fortunafi** | RWA yield products on Base | [Website](https://fortunafi.com) |
 | **Matrixdock** | Tokenized treasury bonds on Base | [Website](https://matrixdock.com) |
 | **Propy** | Tokenized real estate transactions on Base | [Website](https://propy.com) |
-
+| **Credix Finance** | Emerging market credit and RWA lending on Base | [Website](https://credix.finance) |
 
 ## 🛠️ Developer Tools
 
