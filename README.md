@@ -83,6 +83,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | Decentralized AI inference on Base | |[Website](https://venice.ai) |
 | **Ora Protocol** | Onchain AI oracle and inference on Base | [Website](https://ora.io) |
 | **Galadriel** | Decentralized AI smart contracts on Base | [Website](https://galadriel.com) |
+| **Ritual** | Decentralized AI model execution on Base | [Website](https://ritual.net) |
 
 🌉 Bridges
 
