@@ -220,7 +220,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built by Coinbase. It
 | **Tenderly** | Smart contract monitoring and debugging on Base | [Website](https://tenderly.co) |
 | **Hardhat Ignition** | Declarative smart contract deployment on Base | [Website](https://hardhat.org/ignition) |
 | **Cookbook.dev** | Smart contract search and deployment on Base | [Website](https://cookbook.dev) |
-
+| **Sourcify** | Open source smart contract verification on Base | [Website](https://sourcify.dev) |
 
 ## 📊 Analytics & Data
 
